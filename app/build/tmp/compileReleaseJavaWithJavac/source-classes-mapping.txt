@@ -1,0 +1,4 @@
+randomchaos/whoopie/MainActivity.java
+ randomchaos.whoopie.MainActivity
+randomchaos/whoopie/BuildConfig.java
+ randomchaos.whoopie.BuildConfig

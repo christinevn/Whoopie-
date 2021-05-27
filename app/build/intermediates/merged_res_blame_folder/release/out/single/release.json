@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "C:\\Users\\OC\\development\\Whoopie\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\OC\\development\\Whoopie\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\OC\\development\\Whoopie\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v24_ic_whoopie_banner.xml.flat",
+        "source": "C:\\Users\\OC\\development\\Whoopie\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v24\\ic_whoopie_banner.xml"
+    },
+    {
+        "merged": "C:\\Users\\OC\\development\\Whoopie\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_whoopie_icon.png.flat",
+        "source": "C:\\Users\\OC\\development\\Whoopie\\app\\src\\main\\res\\mipmap-xxxhdpi\\whoopie_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\OC\\development\\Whoopie\\app\\build\\intermediates\\res\\merged\\release\\drawable_layout_bg.xml.flat",
+        "source": "C:\\Users\\OC\\development\\Whoopie\\app\\src\\main\\res\\drawable\\layout_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\OC\\development\\Whoopie\\app\\build\\intermediates\\res\\merged\\release\\raw_cartoon_fart2.mp3.flat",
+        "source": "C:\\Users\\OC\\development\\Whoopie\\app\\src\\main\\res\\raw\\cartoon_fart2.mp3"
+    },
+    {
+        "merged": "C:\\Users\\OC\\development\\Whoopie\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\OC\\development\\Whoopie\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\OC\\development\\Whoopie\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\OC\\development\\Whoopie\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\OC\\development\\Whoopie\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_whoopie_banner.png.flat",
+        "source": "C:\\Users\\OC\\development\\Whoopie\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_whoopie_banner.png"
+    },
+    {
+        "merged": "C:\\Users\\OC\\development\\Whoopie\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\OC\\development\\Whoopie\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\OC\\development\\Whoopie\\app\\build\\intermediates\\res\\merged\\release\\raw_cartoon_fart.mp3.flat",
+        "source": "C:\\Users\\OC\\development\\Whoopie\\app\\src\\main\\res\\raw\\cartoon_fart.mp3"
+    },
+    {
+        "merged": "C:\\Users\\OC\\development\\Whoopie\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\OC\\development\\Whoopie\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\OC\\development\\Whoopie\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_whoopie_banner.png.flat",
+        "source": "C:\\Users\\OC\\development\\Whoopie\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_whoopie_banner.png"
+    },
+    {
+        "merged": "C:\\Users\\OC\\development\\Whoopie\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_whoopie_banner.png.flat",
+        "source": "C:\\Users\\OC\\development\\Whoopie\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_whoopie_banner.png"
+    },
+    {
+        "merged": "C:\\Users\\OC\\development\\Whoopie\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_whoopie_icon.png.flat",
+        "source": "C:\\Users\\OC\\development\\Whoopie\\app\\src\\main\\res\\mipmap-hdpi\\whoopie_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\OC\\development\\Whoopie\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\OC\\development\\Whoopie\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\OC\\development\\Whoopie\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_whoopie_banner.png.flat",
+        "source": "C:\\Users\\OC\\development\\Whoopie\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_whoopie_banner.png"
+    },
+    {
+        "merged": "C:\\Users\\OC\\development\\Whoopie\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_whoopie_banner.png.flat",
+        "source": "C:\\Users\\OC\\development\\Whoopie\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_whoopie_banner.png"
+    },
+    {
+        "merged": "C:\\Users\\OC\\development\\Whoopie\\app\\build\\intermediates\\res\\merged\\release\\raw_airy_fart.mp3.flat",
+        "source": "C:\\Users\\OC\\development\\Whoopie\\app\\src\\main\\res\\raw\\airy_fart.mp3"
+    },
+    {
+        "merged": "C:\\Users\\OC\\development\\Whoopie\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\OC\\development\\Whoopie\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\OC\\development\\Whoopie\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_whoopie_icon.png.flat",
+        "source": "C:\\Users\\OC\\development\\Whoopie\\app\\src\\main\\res\\mipmap-xxhdpi\\whoopie_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\OC\\development\\Whoopie\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\OC\\development\\Whoopie\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\OC\\development\\Whoopie\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_whoopie_icon.png.flat",
+        "source": "C:\\Users\\OC\\development\\Whoopie\\app\\src\\main\\res\\mipmap-mdpi\\whoopie_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\OC\\development\\Whoopie\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\OC\\development\\Whoopie\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\OC\\development\\Whoopie\\app\\build\\intermediates\\res\\merged\\release\\drawable_fartmart_icon_pink.png.flat",
+        "source": "C:\\Users\\OC\\development\\Whoopie\\app\\src\\main\\res\\drawable\\fartmart_icon_pink.png"
+    },
+    {
+        "merged": "C:\\Users\\OC\\development\\Whoopie\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\OC\\development\\Whoopie\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\OC\\development\\Whoopie\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\OC\\development\\Whoopie\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\OC\\development\\Whoopie\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_whoopie_icon.png.flat",
+        "source": "C:\\Users\\OC\\development\\Whoopie\\app\\src\\main\\res\\mipmap-xhdpi\\whoopie_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\OC\\development\\Whoopie\\app\\build\\intermediates\\res\\merged\\release\\raw_raspberry_5.mp3.flat",
+        "source": "C:\\Users\\OC\\development\\Whoopie\\app\\src\\main\\res\\raw\\raspberry_5.mp3"
+    },
+    {
+        "merged": "C:\\Users\\OC\\development\\Whoopie\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_whoopie_banner.png.flat",
+        "source": "C:\\Users\\OC\\development\\Whoopie\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_whoopie_banner.png"
+    }
+]

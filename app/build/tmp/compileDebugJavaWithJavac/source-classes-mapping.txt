@@ -1,0 +1,7 @@
+randomchaos/whoopie/BuildConfig.java
+ randomchaos.whoopie.BuildConfig
+randomchaos/whoopie/Camera.java
+ randomchaos.whoopie.Camera
+ randomchaos.whoopie.Camera$CameraManager
+randomchaos/whoopie/MainActivity.java
+ randomchaos.whoopie.MainActivity

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:backgroundTint="#336600"
+    tools:context="randomchaos.whoopie.MainActivity">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/layout_bg"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0">
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="390dp"
+            android:layout_height="200dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="8dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/fartmart_icon_pink" />
+
+        <Button
+            android:id="@+id/airy_fart"
+            android:layout_width="180dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="24dp"
+            android:onClick="playSound"
+            android:text="Airy Fairy"
+            android:textColor="@color/white"
+            android:backgroundTint="#A32EE0"
+            android:soundEffectsEnabled="false"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/imageView3" />
+
+        <Button
+            android:id="@+id/cartoon_fart2"
+            android:layout_width="180dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="16dp"
+            android:backgroundTint="#A32EE0"
+            android:onClick="playSound"
+            android:text="Quick 'n Dirty"
+            android:textColor="@color/white"
+            android:soundEffectsEnabled="false"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/airy_fart" />
+
+        <Button
+            android:id="@+id/cartoon_fart"
+            android:layout_width="180dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="16dp"
+            android:backgroundTint="#A32EE0"
+            android:onClick="playSound"
+            android:text="Symphony"
+            android:textColor="@color/white"
+            android:soundEffectsEnabled="false"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/cartoon_fart2" />
+
+        <Button
+            android:id="@+id/raspberry_5"
+            android:layout_width="180dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="16dp"
+            android:backgroundTint="#A32EE0"
+            android:onClick="playSound"
+            android:text="Blehp"
+            android:textColor="@color/white"
+            android:soundEffectsEnabled="false"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/cartoon_fart" />
+
+
+        <Button
+            android:id="@+id/timer"
+            android:layout_width="180dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="82dp"
+            android:backgroundTint="#A32EE0"
+            android:onClick="pickYourPoison"
+            android:textColor="@color/white"
+            android:text="20s countdown"
+            android:soundEffectsEnabled="false"
+            app:layout_constraintBottom_toTopOf="@+id/textView"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/raspberry_5" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:text="Sounds from Zapsplat.com"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/timer" />
+
+        <EditText
+            android:id="@+id/countdown"
+            android:layout_width="118dp"
+            android:layout_height="89dp"
+            android:layout_marginBottom="32dp"
+            android:background="@null"
+            android:ems="10"
+            android:fontFamily="monospace"
+            android:inputType="text"
+            android:text="20"
+            android:textColor="#FFFFFF"
+            android:textAlignment="center"
+            android:textSize="80dp"
+            android:visibility="invisible"
+            app:layout_constraintBottom_toTopOf="@+id/airy_fart"
+            app:layout_constraintEnd_toEndOf="@+id/airy_fart"
+            app:layout_constraintStart_toStartOf="@+id/airy_fart" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
